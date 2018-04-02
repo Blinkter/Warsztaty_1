@@ -1,1 +1,1 @@
-# Warsztaty1
+# Workshop no1 - workshop after first week
